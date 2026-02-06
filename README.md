@@ -25,6 +25,9 @@ Using real-world data from trusted sources, the dashboard highlights how these e
 
 ## 📊 What the Dashboard Shows
 
+<img width="805" height="453" alt="image" src="https://github.com/user-attachments/assets/85eab4e7-ea79-44f7-a370-345257dec8b1" />
+
+
 This dashboard combines key indicators to provide a snapshot of economic trends:
 
 💰 GDP size and growth
